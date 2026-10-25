@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+!data/.gitkeep
+
+.ipynb_checkpoints/
+.streamlit/
+supabase/.temp/

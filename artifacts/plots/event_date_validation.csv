@@ -1,0 +1,5 @@
+event,start,end_exclusive,flagged_rows,regions_with_flags
+2003 Northeast blackout,2003-08-14,2003-08-16,0,0
+June 2012 derecho,2012-06-28,2012-07-02,70,6
+Hurricane Sandy,2012-10-29,2012-11-01,32,2
+January 2014 polar vortex,2014-01-05,2014-01-09,52,6
